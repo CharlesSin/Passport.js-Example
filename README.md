@@ -1,4 +1,4 @@
-# Google, Facebbook Login Example using Passport js
+# Google, Facebook Login Example using Passport js
 
 ### Prerequisites
 
@@ -30,4 +30,4 @@ npm start
 Using browser visit localhost:3000
 
 ## Contributing
-Please read [Passport](http://www.passportjs.org/) for details .
+Please read [Passport](http://www.passportjs.org/) for more details .
